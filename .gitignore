@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+
+# Jetbrains
+.idea/
+*.iml
+
+# Statistics
+logs/*
+!logs/shared/
+
+# Models
+models/*
+!models/shared/
+plots/*
+!plots/shared/
+log_training/
+*.csv
